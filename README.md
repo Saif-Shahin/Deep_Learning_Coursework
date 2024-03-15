@@ -1,7 +1,7 @@
 # Deep_Learning_Coursework
 A collection of Deep Learning projects and explorations I have conducted at McGill.
 
-## mlp_from_scratch.ipynb
+## mlp.ipynb
 A multilayer perceptron that uses stochastic gradient descent, and a sum of squared errors loss function. 
 
 ## classifier.ipynb
